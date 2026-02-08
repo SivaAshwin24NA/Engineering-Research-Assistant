@@ -1,7 +1,7 @@
 venv/
 vector_db/
-.env
 __pycache__/
-*.exe
 *.db
 *.sqlite3
+.env
+*.exe
